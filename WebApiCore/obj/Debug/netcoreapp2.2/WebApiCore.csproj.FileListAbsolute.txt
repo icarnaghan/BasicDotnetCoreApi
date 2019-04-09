@@ -1,0 +1,14 @@
+/Users/iancarnaghan/code/projects/WebApiCore/bin/Debug/netcoreapp2.2/WebApiCore.deps.json
+/Users/iancarnaghan/code/projects/WebApiCore/bin/Debug/netcoreapp2.2/WebApiCore.runtimeconfig.json
+/Users/iancarnaghan/code/projects/WebApiCore/bin/Debug/netcoreapp2.2/WebApiCore.runtimeconfig.dev.json
+/Users/iancarnaghan/code/projects/WebApiCore/bin/Debug/netcoreapp2.2/WebApiCore.dll
+/Users/iancarnaghan/code/projects/WebApiCore/bin/Debug/netcoreapp2.2/WebApiCore.pdb
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.csprojAssemblyReference.cache
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.csproj.CoreCompileInputs.cache
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.RazorAssemblyInfo.cache
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.RazorAssemblyInfo.cs
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.AssemblyInfoInputs.cache
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.AssemblyInfo.cs
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.RazorTargetAssemblyInfo.cache
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.dll
+/Users/iancarnaghan/code/projects/WebApiCore/obj/Debug/netcoreapp2.2/WebApiCore.pdb
